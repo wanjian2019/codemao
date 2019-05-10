@@ -8,7 +8,7 @@ import itertools
 5、计算结果，等于24，ok
 6、括号情况加上去
 '''
-TF_24 = 24
+TF_24 = 44
 
 
 def _all_combination(list4):
